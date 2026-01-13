@@ -2,6 +2,14 @@
 
 A Rust-based arbitrage bot for Polymarket that monitors ETH and BTC 15-minute price prediction markets and executes trades when arbitrage opportunities are detected.
 
+> **📋 Repository Assessment Available**  
+> A comprehensive assessment of this codebase has been completed. See:
+> - **[Assessment Summary](ASSESSMENT_SUMMARY.md)** - Quick overview and recommendations
+> - **[Full Assessment Report](ASSESSMENT.md)** - Detailed analysis (16 sections)
+> - **[Security Recommendations](SECURITY.md)** - Security fixes and best practices
+> 
+> **Overall Grade: C+** (Functional but needs work before production use)
+
 ## How It Works
 
 The bot continuously monitors two markets:
